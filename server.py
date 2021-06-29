@@ -1,8 +1,8 @@
 import socket 
 import threading
 
-HEADER = 64#64bytes
-PORT = 5050
+HEADER = 120#120bytes
+PORT = 3128
 SERVER = socket.gethostbyname(socket.gethostname()) #togetipadressofthecomputer
 ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
