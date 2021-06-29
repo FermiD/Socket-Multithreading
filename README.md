@@ -27,3 +27,6 @@ The result of sending the message will be shown in the server.py terminal like t
 [('192.168.56.1', 58994)] !DISCONNECT
 
 The last line disconnects the client from the server. To reconnect, just run client.py again.
+
+If you want to you can also run the project with Gui by installing the Gui.py file and import tkinter then run.
+note : without this our project will still be working perfectly fine.
