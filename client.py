@@ -1,7 +1,7 @@
 import socket
 
 HEADER = 64
-PORT = 5050
+PORT = 3128
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
 SERVER = "192.168.56.1"#my computer as server
